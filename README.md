@@ -157,9 +157,9 @@ Book-Inventory-Management-System/
 │   │   │
 │   │   ├── pages/
 │   │   │   ├── HomePage.jsx
-│   │   │   ├── CreateBookPage.jsx
+│   │   │   ├── CreatePage.jsx
 │   │   │   ├── BookDetailPage.jsx
-│   │   │   └── EditBookPage.jsx
+│   │   │   └── ReportPage.jsx
 │   │   │
 │   │   ├── lib/
 │   │   │   ├── axios.js
