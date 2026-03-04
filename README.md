@@ -131,6 +131,7 @@ Each book document includes:
 • updatedAt (Date)
 
 ## PROJECT STRUCTURE
+```
 
 Book-Inventory-Management-System/
 │
@@ -171,6 +172,7 @@ Book-Inventory-Management-System/
 │   └── package.json
 │
 └── README.md
+```
 -------------------------
 ## Installation And Setup 
 
